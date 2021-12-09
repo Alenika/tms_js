@@ -1,6 +1,5 @@
 'use strict';
 
-console.log('');
 console.log('Задание 2');
 
 let age = Number(prompt('Введите свой возраст: '));
